@@ -1,0 +1,16 @@
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.csproj.AssemblyReference.cache
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.AssemblyInfoInputs.cache
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.AssemblyInfo.cs
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.csproj.CoreCompileInputs.cache
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.exe
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.deps.json
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.runtimeconfig.json
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.runtimeconfig.dev.json
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.dll
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\ref\PortScanner.dll
+D:\vsProjects\sniffer\snifferSuper\PortScanner\bin\Debug\net5.0\PortScanner.pdb
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.dll
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\ref\PortScanner.dll
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.pdb
+D:\vsProjects\sniffer\snifferSuper\PortScanner\obj\Debug\net5.0\PortScanner.genruntimeconfig.cache
